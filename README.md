@@ -1,6 +1,6 @@
-# 📊 Customer Revenue & Product Analytics using SQL
+#  Customer Revenue & Product Analytics using SQL
 
-## 🔷 Project Overview
+##  Project Overview
 
 This project is a complete **end-to-end SQL data analytics project** where I used only SQL to explore the data, generate business KPIs, and create customer and product level reports.
 
@@ -18,7 +18,7 @@ In this project I performed:
 
 ---
 
-## 🔷 Business Objective
+##  Business Objective
 
 The objective of this project is to answer important business questions like:
 
@@ -31,7 +31,7 @@ The objective of this project is to answer important business questions like:
 
 ---
 
-## 🔷 Tools & Skills Used
+##  Tools & Skills Used
 
 - SQL
 - Joins
@@ -45,7 +45,7 @@ The objective of this project is to answer important business questions like:
 
 ---
 
-## 🔷 Step by Step Query Explanation
+##  Step by Step Query Explanation
 
 ### 1 Fetching Base Data
 In this query I joined the required tables and created a base dataset which is used for complete analysis.
@@ -177,9 +177,9 @@ To identify best and worst performers.
 
 ---
 
-## 🔷 Reports Created
+##  Reports Created
 
-### 📄 Customer Report
+###  Customer Report
 
 This report contains:
 
@@ -189,7 +189,7 @@ This report contains:
 - Customer ranking
 - Customer segment (High / Medium / Low value)
 
-🔹 Business Insights:
+ Business Insights:
 
 - Top customers contributing major revenue
 - Low value customers who need engagement
@@ -197,7 +197,7 @@ This report contains:
 
 ---
 
-### 📄 Product Report
+###  Product Report
 
 This report contains:
 
@@ -207,7 +207,7 @@ This report contains:
 - Product contribution %
 - Performance category
 
-🔹 Business Insights:
+ Business Insights:
 
 - Best selling products
 - Slow moving products
@@ -215,7 +215,7 @@ This report contains:
 
 ---
 
-## 🔷 Key Business Insights from the Project
+##  Key Business Insights from the Project
 
 ✔ Few customers are contributing most of the revenue (Pareto effect)  
 ✔ Top products are driving the overall business growth  
