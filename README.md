@@ -47,7 +47,7 @@ The objective of this project is to answer important business questions like:
 
 ## 🔷 Step by Step Query Explanation
 
-### 1️⃣ Fetching Base Data
+### 1 Fetching Base Data
 In this query I joined the required tables and created a base dataset which is used for complete analysis.
 
 Purpose:
@@ -55,7 +55,7 @@ To bring all important columns like customer, product, sales, quantity and date 
 
 ---
 
-### 2️⃣ Date Exploration
+### 2 Date Exploration
 Here I checked:
 
 - First order date
@@ -67,7 +67,7 @@ To understand how many years/months of data is available for analysis.
 
 ---
 
-### 3️⃣ Dimensions Exploration
+### 3 Dimensions Exploration
 In this part I found:
 
 - Total number of customers
@@ -79,7 +79,7 @@ To understand business size and data distribution.
 
 ---
 
-### 4️⃣ Measures Exploration (KPI Calculation)
+### 4 Measures Exploration (KPI Calculation)
 
 Main KPIs created:
 
@@ -92,7 +92,7 @@ These KPIs show overall business performance.
 
 ---
 
-### 5️⃣ Magnitude Analysis
+### 5 Magnitude Analysis
 
 Here I compared performance across:
 
@@ -105,7 +105,7 @@ Which segment is generating more revenue?
 
 ---
 
-### 6️⃣ Ranking Analysis
+### 6 Ranking Analysis
 
 I identified:
 
@@ -118,7 +118,7 @@ Helps in target marketing and inventory planning.
 
 ---
 
-### 7️⃣ Changes Over Time (Trend Analysis)
+### 7 Changes Over Time (Trend Analysis)
 
 In this query I analysed:
 
@@ -130,7 +130,7 @@ To track business growth and identify seasonality.
 
 ---
 
-### 8️⃣ Cumulative Analysis
+### 8 Cumulative Analysis
 
 Here I created:
 
@@ -142,7 +142,7 @@ To see how business is growing over time.
 
 ---
 
-### 9️⃣ Part to Whole Analysis
+### 9 Part to Whole Analysis
 
 In this I calculated:
 
@@ -153,7 +153,7 @@ To identify high impact products.
 
 ---
 
-### 🔟 Data Segmentation
+### 10 Data Segmentation
 
 Customers are segmented into:
 
@@ -166,7 +166,7 @@ Useful for marketing strategy and customer retention.
 
 ---
 
-### 1️⃣1️⃣ Performance Analysis
+### 11 Performance Analysis
 
 In this query I compared:
 
